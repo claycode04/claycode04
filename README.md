@@ -19,11 +19,7 @@ I'm a dedicated Fullstack Developer with a passion for creating user-friendly an
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) GitHub (version control, project management)
 - ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) cPanel (web hosting)
 
-## Projects to Highlight
 
-### E-Commerce Platform:
-- Developed a dynamic e-commerce platform with responsive design, category management, and cart functionality.
-- Integrated country-based shipping logic in the checkout process.
 
 ## Contact & Social Media
 
