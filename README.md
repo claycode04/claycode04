@@ -29,7 +29,7 @@ I'm a dedicated Fullstack Developer with a passion for creating user-friendly an
 
 📧 Email: [workyassinebenyahia@gmail.com](mailto:workyassinebenyahia@gmail.com)  
 💼 LinkedIn: [Yassine Benyahia](https://www.linkedin.com/in/yassine-benyahia-3829b326a/)  
-📂 GitHub: [YourGitHubUsername](https://github.com/claycode04)
+📂 GitHub: [Yassine Benyahia ](https://github.com/claycode04)
 
 ## Visual Elements
 
