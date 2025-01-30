@@ -15,7 +15,7 @@ I'm a dedicated Fullstack Developer with a passion for creating user-friendly an
 ### 🛠️ Backend:
 
 - ![Php](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
-- ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)  (API development)
+- ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)  <h5>(API development)</h5>
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 
