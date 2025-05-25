@@ -35,3 +35,4 @@ I'm a dedicated Fullstack Developer with a passion for creating user-friendly an
 
 ![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=claycode04&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claycode04&layout=compact&theme=radical)
+![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=claycode04&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
