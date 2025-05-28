@@ -1,3 +1,6 @@
+
+[![claycode04's 42 stats](https://badge.mediaplus.ma/levi/claycode04)](https://github.com/oakoudad/badge42)
+
 # Hi, I'm Yassine Benyahia 👋
 
 I'm a dedicated Fullstack Developer with a passion for creating user-friendly and efficient web applications. I enjoy turning ideas into functional digital solutions, blending clean code with modern design.
