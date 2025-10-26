@@ -1,5 +1,4 @@
 
-(https://badge.mediaplus.ma/levi/claycode04)(https://github.com/oakoudad/badge42)
 
 # Hi, I'm Yassine Benyahia 👋
 
