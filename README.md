@@ -1,5 +1,5 @@
 <p align="center">
-<div class="tenor-gif-embed" data-postid="4373606555250453292" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">Ghostedvpn Hacker Cat GIF</a>from <a href="https://tenor.com/search/ghostedvpn-gifs">Ghostedvpn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src='https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292'>
 <div align="center">
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=claycode04&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits">
  </div>
