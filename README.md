@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
 # Hi, I'm Yassine Benyahia 👋
 
 I'm a dedicated Fullstack Developer with a passion for creating user-friendly and efficient web applications. I enjoy turning ideas into functional digital solutions, blending clean code with modern design.
