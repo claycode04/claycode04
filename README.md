@@ -1,5 +1,5 @@
 
-[![claycode04's 42 stats](https://badge.mediaplus.ma/levi/claycode04)](https://github.com/oakoudad/badge42)
+(https://badge.mediaplus.ma/levi/claycode04)(https://github.com/oakoudad/badge42)
 
 # Hi, I'm Yassine Benyahia 👋
 
