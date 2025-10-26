@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292'>
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <div align="center">
 <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=claycode04&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits">
  </div>
